@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Web App Project**
 
-- 👨‍💻 All of my projects are available at [https://silentcoderportfolio.netlify.com/](https://silentcoderportfolio.netlify.com/)
+- 👨‍💻 All of my projects are available at [silentcoder.vercel.app)
 
 - 💬 Ask me about **react, python**
 
