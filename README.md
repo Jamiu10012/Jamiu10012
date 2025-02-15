@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Jobxtreme](https://jobxtreme.netlify.app/)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **.Net**
 
 - 👯 I’m looking to collaborate on **Web App Project**
 
