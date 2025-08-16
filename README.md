@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Jamiu (SilentCoder)</h1>
-<h3 align="center">A passionate frontend developer, MERN developer and python developer from Nigeria</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer (MERN/MEAN) | Python & UI/UX Enthusiast from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamiu10012&label=Profile%20views&color=0e75b6&style=flat" alt="jamiu10012" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Web App Project**
 
-- 👨‍💻 All of my projects are available at [silentcoder](https://silentcoder.vercel.app)
+- 👨‍💻 All of my projects are available at [silentcoder](https://ibrahimjamiu.vercel.app/)
 
 - 💬 Ask me about **react, python**
 
